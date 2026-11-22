@@ -1,0 +1,1 @@
+{"models": {"Logistic Regression": {"accuracy": 0.9817, "f1": 0.9835}, "Naive Bayes": {"accuracy": 0.9448, "f1": 0.9495}, "Linear SVM": {"accuracy": 0.9879, "f1": 0.9891}}, "confusion_matrix": [[3374, 102], [39, 4200]]}
