@@ -2,7 +2,7 @@
 
 NLP classifier that labels news articles as real or fake, with a Streamlit app and a Google Fact Check API lookup.
 
-*Live demo:* (add after deploy)
+*Live demo:* https://fake-news-detector-kf66krptotp3egzb6zcjzn.streamlit.app/
 
 ## Results
 Dataset: ISOT Fake and Real News (about 38.5K articles after removing duplicates).
@@ -30,4 +30,4 @@ The dataset is 2016-17 US news, so the model learns writing style and topic rath
 
 Add your key in .streamlit/secrets.toml:
 
-    FACTCHECK_KEY = "AIzaSyDOSvEP2v7BX8CoFiXbm7YKJh2wLZFFles"
+    FACTCHECK_KEY = "your_key"
